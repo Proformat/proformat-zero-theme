@@ -1,5 +1,7 @@
 <?php
 
+require 'inc/helpers.php';
+
 if (!function_exists('breakdance_zero_theme_setup')) {
     function breakdance_zero_theme_setup()
     {
@@ -25,3 +27,5 @@ function warn_if_breakdance_is_disabled() {
     </div>
     <?php
 }
+
+
