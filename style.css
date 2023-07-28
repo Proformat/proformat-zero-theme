@@ -1,15 +1,11 @@
 /*
-Theme Name: Proformat Zero Theme
-Theme URI: https://proformat.pl/zero-theme // todo
-Author: Proformat   
-Author URI: https://proformat.pl/
-Description: Entirely disables the WordPress theme system and lets you design every part of your site with Breakdance, while keeping other theme functionality like templates overrides and functions.php.
-Version: 1.0.0
-Tested up to: 5.9
-Requires PHP: 7
-License: GNU General Public License v2 or later // todo no idea about this
-License URI: LICENSE
+Theme Name: Proformat Theme
+Theme URI: https://www.proformat.pl/
+Author: Proformat
+Author URI: https://www.proformat.pl/
+Version: 1.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: proformat
-
-Requires Breakdance to be installed.
-/*--------------------------------------------------------------
+*/
